@@ -9,7 +9,6 @@ TextToSQL is a web application that lets you query a SQLite database using plain
 - [Project Structure and File Explanations](#project-structure-and-file-explanations)
 - [Usage](#usage)
 - [Customization](#customization)
-- [License](#license)
 
 ## Installation
 
